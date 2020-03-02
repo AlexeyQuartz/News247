@@ -90,18 +90,49 @@ body {
 //Врезанный блок в статью
 .item {
     width: 100%;
+    margin: 20px 0;
+}
+
+.item__left-border {
+    width: calc(100% - 28px);
+    padding-left: 24px;
+    border-left: solid #FF6100 4px;
+
+    .item-title__small {
+        display: flex;
+        width: 100%;
+        margin-bottom: .4rem;
+
+        font-size: 1rem;
+        line-height: 1.375rem;
+    }
+
+    .item-container__small {
+        display: flex;
+        flex-direction: column;;
+
+
+        &:first-child {
+            border-top: none;
+        }
+    
+        &:last-child {
+            border-bottom: none;
+        }
+    }
 }
 
 .item-container__small {
     display: flex;
     flex-direction: row;
-    
-    margin: 20px 0;
     padding: 12px 0;
 
     border-top: solid 1px $color-light-gray;
     border-bottom: solid 1px $color-light-gray;
 
+    &:not(:first-child){
+        border-top: none;
+    }
 }
 
 .item-cover__small {
@@ -113,6 +144,8 @@ body {
 }
 
 .item-title__small {
+    display: flex;
+
     font-size: 1.5rem;
     line-height: 1.75rem;
     font-weight: 800;
@@ -122,15 +155,71 @@ body {
 .item-container__text {
     display: flex;
     flex-direction: column;
+    align-content: space-between;
 
-    .item-stat {
-        bottom: 0px;
+    // .item-stat {
+    //     align-self: end;
+    // }
+}
+
+// Боковые новости
+.item__hot {
+    display: flex;
+    flex-direction: column;
+    font-size: .875rem;
+
+    .item-title__small {
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .item-container {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 1rem;
+    }
+
+    img {
+        width: 84px;
+        height: 56px;
+        background-color: $color-light-gray;
+    }
+
+    .item-link {
+        width: 196px;
+        margin-top: 0;
+        padding-left: .5rem;
     }
 }
 
+.item__actual {
+    display: flex;
+    flex-direction: column;
+    font-weight: 800;
 
+    .item-title__small {
+        padding-left: 0;
+        width: 100%;
+    }
 
+    .item-container {
+        display: inline-block;
+        margin-bottom: 1.5rem;
+    }
 
+    img {
+        width: 266px;
+        height: 148px;
+        background-color: $color-light-gray;
+        margin-bottom: .25rem;
+    }
+
+    .item-link {
+        margin-bottom: 0;
+        line-height: 1.25rem;
+        width: 266px;
+    }
+}
 
 
 
@@ -148,16 +237,18 @@ body {
     align-items: center;
 
     .stat__data {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
         font-size: 0.8rem;
         color: $color-gray;
         margin-right: 24px;
-
-        img {
-            padding-right: .3rem;
-        }
     }
 }
 
+
+// Иконки социалок
 .item-share {
     display: flex;
     flex-direction: row;
@@ -167,8 +258,8 @@ body {
 .btn-share {
     display: flex;
     justify-content: center;
+    align-items: center;
     border: solid 1px #dedede;
-
 
     width: 68px;
     height: 37px;
@@ -179,10 +270,54 @@ body {
     }
 }
 
+.icons-social {
+    display: block;
+	width: 24px;
+	height: 24px;
+	background: url(../../static/icons/icons-social.svg) no-repeat;
+}
+
+.icon__facebook {
+    background-position: 3px (0 + 4px);
+}
+
+.icon__twitter {
+    background-position: 3px (-24px + 4px);
+}
+
+.icon__vk {
+    background-position: 3px ((-24px * 2) +4px);
+}
+
+.icon__telegram {
+    background-position: 3px ((-24px * 3) +4px);
+}
+
+.icon__share {
+    background-position: 3px ((-24px * 4) +4px);
+}
+
+
+
+.icons-about-article {
+    display: inline-block;
+	width: 16px;
+	height: 16px;
+    background: url(../../static/icons/icons-about-article.svg) no-repeat;
+    margin-right: .3rem;
+}
+
+.icon__time {
+    background-position: 1px 2px;
+    margin-left: -3px;
+}
+
+.icon__views {
+    background-position: 1px -13px;
+}
 
 
 // @media (min-width: 320px) and (max-width: 414px) {
-
 // }
 
 
