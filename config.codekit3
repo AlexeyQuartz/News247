@@ -41,139 +41,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/Specs\/assets\/icon-facebook.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-facebook.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-quote.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-quote.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-share.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-share.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-telegram.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-telegram.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-time.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-time.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-twetter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-twetter.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-views.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-views.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/icon-vk.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/icon-vk.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/assets\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/Specs\/assets\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/Specs\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Specs\/index.html",
-		"oF": 0
-		},
-	"\/Specs\/links\/specs-desktop-1360.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Specs\/links\/specs-desktop-1360.html",
-		"oF": 0
-		},
-	"\/Specs\/links\/specs-touch-320.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Specs\/links\/specs-touch-320.html",
-		"oF": 0
-		},
-	"\/Specs\/preview\/specs-desktop-1360.png": {
-		"ft": 32768,
-		"iS": 16624198,
-		"oA": 0,
-		"oAP": "\/Specs\/preview\/specs-desktop-1360.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/Specs\/preview\/specs-touch-320.png": {
-		"ft": 32768,
-		"iS": 2991104,
-		"oA": 0,
-		"oAP": "\/Specs\/preview\/specs-touch-320.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/src\/styles\/.sass-cache\/21bd46654fa46574b4842c1dbe5f2861ed27681b\/fonts.scssc": {
 		"cB": 0,
 		"ft": 8192,
@@ -309,26 +176,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/static\/icons\/icon-time.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/static\/icons\/icon-time.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/static\/icons\/icon-views.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/static\/icons\/icon-views.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/static\/icons\/icons-about-article.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -359,6 +206,46 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/static\/images\/150-1.jpg": {
+		"ft": 16384,
+		"iS": 14982,
+		"oA": 0,
+		"oAP": "\/static\/images\/150-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/static\/images\/150-2.jpg": {
+		"ft": 16384,
+		"iS": 64377,
+		"oA": 0,
+		"oAP": "\/static\/images\/150-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/static\/images\/150-3.jpg": {
+		"ft": 16384,
+		"iS": 44309,
+		"oA": 0,
+		"oAP": "\/static\/images\/150-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/static\/images\/cover.jpg": {
+		"ft": 16384,
+		"iS": 96902,
+		"oA": 0,
+		"oAP": "\/static\/images\/cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/static\/images\/img_actual_001.jpg": {
 		"ft": 16384,
 		"iS": 10559,
@@ -366,7 +253,7 @@
 		"oAP": "\/static\/images\/img_actual_001.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_002.jpg": {
@@ -376,7 +263,7 @@
 		"oAP": "\/static\/images\/img_actual_002.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_003.jpg": {
@@ -386,7 +273,7 @@
 		"oAP": "\/static\/images\/img_actual_003.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_004.jpg": {
@@ -396,7 +283,7 @@
 		"oAP": "\/static\/images\/img_actual_004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_005.jpg": {
@@ -406,7 +293,7 @@
 		"oAP": "\/static\/images\/img_actual_005.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_006.jpg": {
@@ -416,7 +303,7 @@
 		"oAP": "\/static\/images\/img_actual_006.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_actual_007.jpg": {
@@ -426,7 +313,7 @@
 		"oAP": "\/static\/images\/img_actual_007.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_hot_001.jpg": {
@@ -436,7 +323,7 @@
 		"oAP": "\/static\/images\/img_hot_001.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_hot_002.jpg": {
@@ -446,7 +333,7 @@
 		"oAP": "\/static\/images\/img_hot_002.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_hot_003.jpg": {
@@ -456,7 +343,7 @@
 		"oAP": "\/static\/images\/img_hot_003.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_hot_004.jpg": {
@@ -466,7 +353,7 @@
 		"oAP": "\/static\/images\/img_hot_004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/static\/images\/img_hot_005.jpg": {
@@ -476,7 +363,7 @@
 		"oAP": "\/static\/images\/img_hot_005.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		}
 	},
