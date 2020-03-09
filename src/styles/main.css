@@ -793,7 +793,7 @@ footer .logo {
   background-position: 1px -13px;
 }
 
-@media (min-width: 320px) and (max-width: 620px) {
+@media (min-width: 320px) and (max-width: 619px) {
   html,
   body {
     font-size: 14px;
