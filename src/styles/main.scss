@@ -117,8 +117,6 @@ footer {
     margin-top: 40px;
 }
 
-
-
 .row-article {
 }
 
@@ -152,9 +150,6 @@ footer {
     top: 4px;
 }
 
-
-
-//Виды изображений
 .item-img__article {
     width: 100%;
     margin-top: 1.125rem;
@@ -177,7 +172,6 @@ footer {
     width: 84px;
 }
 
-
 .load-in-footer {
     display: flex;
     flex-direction: row;
@@ -194,7 +188,7 @@ footer {
         height: auto;
     }
 
-    .item-img__inline-s { // Врезки новостей в подвале
+    .item-img__inline-s { // Врезки  малых новостей в подвале
         width: 114px;
         height: 76px;
         padding-right: 10px;
@@ -211,13 +205,9 @@ footer {
 .item-separator {
     width: 100%;
     height: 1px;
-
-    background-color: $color-light-gray;
-
     margin-top: -8px;
     margin-bottom: 24px;
-
-    // border-bottom: solid 1px $color-light-gray;
+    background-color: $color-light-gray;
 }
 
 .item-container {
@@ -231,8 +221,6 @@ footer {
     margin-bottom: 2rem;
 }
 
-
-
 .item-img {
     display: flex;
     flex-shrink: 0;
@@ -243,11 +231,6 @@ footer {
     }
 }
 
-
-
-
-
-
 //Врезанный блок в статью
 .item {
     margin-top: 1.5rem;
@@ -257,7 +240,7 @@ footer {
 .item__no-image,
 .item__left-border {
     .item-title {
-        font-size: 1.5rem;
+        font-size: 1.5rem; 
     }
 
     .item-title__small {
@@ -316,7 +299,7 @@ footer {
     display: flex;
     margin-bottom: .4rem;
 
-    font-size: 1.5rem;
+    font-size: 1.5rem ;
     line-height: 1.75rem;
     font-weight: 800;
 }
@@ -345,7 +328,6 @@ footer {
     width: 306px - 40px;
     padding: 20px 20px 8px 20px;
     margin: 0 18px 8px 0;
-    
     background-color: #FFEFE5;
 
     .item-link {
@@ -429,8 +411,6 @@ footer {
     }
 }
 
-
-
 // Статистика и социалки
 .item-info {
     display: flex;
@@ -461,12 +441,10 @@ footer {
     }
 }
 
-
 // Иконки социалок
 .item-share {
     display: flex;
     flex-direction: row;
-
 }
 
 .btn-share {
@@ -487,8 +465,6 @@ footer {
         transition-duration: .33s;
         border-color: $color-orange;
     }
-
-
 }
 
 .icons-social {
@@ -569,7 +545,6 @@ footer {
     .row-article {
         margin-top: 1rem;
     }
-
     
     .item {
         margin-top: 1rem;
@@ -624,7 +599,6 @@ footer {
         border-right: none;
     }
 
-    
     .item-img__inline-square {
         width: 100px;
         height: 100px;
@@ -639,7 +613,6 @@ footer {
         padding-left: 2.285rem;
         font-size: 1.285rem;
         line-height: 1.714rem;
-        
         background-position-y: 3px;
     }
     
@@ -690,8 +663,29 @@ footer {
 }
 
 
-@media (min-width: 414px) and (max-width: 619px) {
-    
+
+
+
+@media (min-width: 415px) {
+    .item-img__inline-square {
+    width: 130px;
+    height: 130px;
+    }
+
+    .item-title__small {
+        font-size: 1.3rem;
+        line-height: 1.5rem;
+    }
+}
+
+@media (min-width: 520px) {
+    .item-title__small {
+        font-size: 1.5rem;
+        line-height: 1.75rem;
+    }
+}
+
+@media (min-width: 415px) and (max-width: 619px) {
     .load-in-footer {
         margin-left: -14px;
     }
@@ -700,19 +694,36 @@ footer {
         width: calc(50% - 14px);
         margin-left: 14px;
     }
-
-
 }
 
 
-@media (min-width: 620px) and (max-width: 979px) {
 
+
+
+@media (min-width: 620px) {
+    .item-img__inline-square {
+        width: 150px;
+        height: 150px;
+        }
+
+    .item-title__small {
+        font-size: 1.5rem ;
+        line-height: 1.75rem;
+    }
+}
+
+@media (min-width: 620px) and (max-width: 979px) {
     .header {
         .container {
             width: 620px;
+            justify-content: center;
 
             .logo {
                 margin-right: 2rem;
+            }
+
+            nav {
+                display: none;
             }
         }
     }
@@ -720,22 +731,25 @@ footer {
     .row {
         margin-top: 1.5rem;
     }
-    .article-container {
+    .article-container, 
+    .load-in-footer {
+        width: calc(100% - 32px);
+        max-width: 620px;
+        padding-left: 16px;
+        padding-right: 16px;
         border-right: none;
-        padding-right: 0;
+    }
+    
+    .load-in-footer {
+        margin-top: 0;
     }
 
     .aside-container {
         display: none;
     }
 
-    .load-in-footer {
-        width: 620px;
-        margin-top: 0;
-    }
-
     .item-size__l {
-        width: 302px;
+        width: calc(50% - 14px);
 
         .item-img__inline-l {
             width: 100%;
@@ -756,22 +770,4 @@ footer {
             }
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
