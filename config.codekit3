@@ -41,6 +41,139 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/Specs\/assets\/icon-facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-quote.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-quote.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-share.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-share.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-telegram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-telegram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-time.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-time.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-twetter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-twetter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-views.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-views.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/icon-vk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/icon-vk.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/assets\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Specs\/assets\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/Specs\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Specs\/index.html",
+		"oF": 0
+		},
+	"\/Specs\/links\/specs-desktop-1360.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Specs\/links\/specs-desktop-1360.html",
+		"oF": 0
+		},
+	"\/Specs\/links\/specs-touch-320.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Specs\/links\/specs-touch-320.html",
+		"oF": 0
+		},
+	"\/Specs\/preview\/specs-desktop-1360.png": {
+		"ft": 32768,
+		"iS": 4279890,
+		"oA": 0,
+		"oAP": "\/Specs\/preview\/specs-desktop-1360.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Specs\/preview\/specs-touch-320.png": {
+		"ft": 32768,
+		"iS": 683545,
+		"oA": 0,
+		"oAP": "\/Specs\/preview\/specs-touch-320.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/styles\/.sass-cache\/21bd46654fa46574b4842c1dbe5f2861ed27681b\/fonts.scssc": {
 		"cB": 0,
 		"ft": 8192,
